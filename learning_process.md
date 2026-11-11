@@ -16,7 +16,7 @@ Learn to explain it in simple terms.
 
 ##### Future actions
 1. Explaining things to myself or seekers what I have learnt(Writing blogs or video tutorialing).
-2. Following a same sleep and wake up time (Setting up alarms 15 mins early before going to bed)
-3. Plannig time to learn and act according to deadlines (Notebook or app for only planning)
-4. Involving and learning. Insted of observing and learning
-5. Staring with small and simple
+2. Following a same sleep and wake up time (Setting up alarms 15 mins early before going to bed).
+3. Plannig time to learn and act according to deadlines (Notebook or app for only planning).
+4. Involving and learning. Insted of observing and learning.
+5. Staring small and simple.
